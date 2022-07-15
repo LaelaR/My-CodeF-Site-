@@ -12,11 +12,10 @@ draft: true
  In my _Recipe Book_ you will find the following:
  - Salads
 
- ![salad.webp](https://unsplash.com/photos/IGfIGP5ONV0) 
+ ![salad.webp](Salad.jpeg) 
 
  - Soups
  - Cakes
 
- ! []
 
-> _Cooking is a form of art..._ 
+
